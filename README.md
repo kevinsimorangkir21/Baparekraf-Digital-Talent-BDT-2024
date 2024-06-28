@@ -12,9 +12,9 @@
 
 This module contains learning about Web Basics from HTML and CSS.
 
-## **Instruction**
+## **Alternatife**
 
-Some instructions in this Repository to make searching easier are as follows:
+You can view and download the source code of the submission at [Submission Pemweb](https://github.com/kevinsimorangkir21/Baparekraf-Digital-Talent-BDT-2024/blob/Belajar-Dasar-Pemrograman-Web/archive/refs/tags/BelajarDasarPemrogramanWeb.zip)
 
 1. Please access the Repository branch that says "Main"
 <img src="IMG/Branch 1.png" width="100%" alt="Repository BDT" />
