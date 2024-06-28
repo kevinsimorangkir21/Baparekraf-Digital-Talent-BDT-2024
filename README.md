@@ -1,2 +1,3 @@
-# Baparekraf-Digital-Talent-BDT-2024
-Collection of Program Submissions / Program Codes for Baparekraf Digital Talent (BDT) 2024
+<div align="center">
+<img src="IMG/Cover.png" width="100%" />
+<h1> Repository Submission DICODING </h1>
