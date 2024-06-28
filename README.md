@@ -10,7 +10,7 @@
 
 ## **Description**
 
-This project is a submission from Dicoding for several classes assigned by Baparekraf Digital Talent (BDT) 2024. The project is one of the program graduation requirements.
+This module contains learning about Web Basics from HTML and CSS.
 
 ## **Instruction**
 
