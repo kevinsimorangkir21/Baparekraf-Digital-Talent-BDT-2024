@@ -7,7 +7,7 @@
 
 [Description](#)
 
-[Instruction](#instruction)
+[Alternatife](#alternatife)
 
 [Attention](#attention)
 
@@ -19,8 +19,10 @@ This module contains learning about Web Basics from HTML and CSS.
 
 You can view and download the source code of the submission at [Submission Pemweb](https://github.com/kevinsimorangkir21/Baparekraf-Digital-Talent-BDT-2024/tree/Belajar-Dasar-Pemrograman-Webarchive/tree/Belajar-Dasar-Pemrograman-Web/refs/heads/BelajarDasarPemrogramanWeb.zip)
 
-1. Please access the Repository branch that says "Main"
-<img src="IMG/Branch 1.png" width="100%" alt="Repository BDT" />
-
-2. Please click the dropdown (▼) and select the material / submission you need.
-
+## **Attentention**
+>
+> **_WARNING: Make this repo a reference/reference not plagiarism._**
+>
+> - In accordance with the DICODING Terms of Use, the submission is your own work, not someone else's. Don't plagiarize!
+>
+> - Submissions do not plagiarize from any source (ex: Github, Blogger, or others). It is only used as a reference.
