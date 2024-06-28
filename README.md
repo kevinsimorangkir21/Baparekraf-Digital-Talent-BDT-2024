@@ -17,4 +17,7 @@ This project is a submission from Dicoding for several classes assigned by Bapar
 Some instructions in this Repository to make searching easier are as follows:
 
 1. Please access the Repository branch that says "Main"
-<img src="IMG/Branch 1.png" width="100%" />
+<img src="IMG/Branch 1.png" width="100%" alt="Repository BDT" />
+
+2. Please click the dropdown (▼) and select the material / submission you need.
+
