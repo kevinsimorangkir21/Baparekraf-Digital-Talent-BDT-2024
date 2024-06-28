@@ -13,11 +13,11 @@
 
 ## **Description**
 
-This module contains learning about Web Basics from HTML and CSS.
+This module contains learning about Web Basics from HTML, CSS, and JavaScript.
 
 ## **Alternatife**
 
-You can view and download the source code of the submission at [Submission Pemweb](https://github.com/kevinsimorangkir21/Baparekraf-Digital-Talent-BDT-2024/archive/refs/tags/Pemweb.zip)
+You can view and download the source code of the submission at [Submission FE-Pemula](https://github.com/kevinsimorangkir21/Baparekraf-Digital-Talent-BDT-2024/releases/tag/FE-Pemula)
 
 ## **Attentention**
 >
