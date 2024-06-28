@@ -20,4 +20,4 @@ Some instructions in this Repository to make searching easier are as follows:
 <img src="IMG/Branch 1.png" width="100%" alt="Repository BDT" />
 
 2. Please click the dropdown (▼) and select the material / submission you need.
-
+<img src="IMG/Branch 2.png" width="100%" alt="Repository BDT 2" />
